@@ -1,0 +1,22 @@
+{
+  "name": "except.chat",
+  "version": "1.0.0",
+  "description": "Write message to everyone, /except @someone ...maybe?",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/except-app/except.chat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Radu Farcas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/except-app/except.chat/issues"
+  },
+  "homepage": "https://github.com/except-app/except.chat#readme"
+}
