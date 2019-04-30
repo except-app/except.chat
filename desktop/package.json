@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/except-app/except.chat/issues"
   },
-  "homepage": "https://github.com/except-app/except.chat#readme"
+  "homepage": "https://github.com/except-app/except.chat#readme",
+  "devDependencies": {}
 }
